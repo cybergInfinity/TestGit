@@ -6,6 +6,6 @@ public static void main(String[] args) {
 	System.out.println("edit by Remote Repository");
 	System.out.println("edit by Gitlocal ");
 	System.out.println("edit by Git ");
-	
+	System.out.println("test conflict by GitTest");
 }
 }
