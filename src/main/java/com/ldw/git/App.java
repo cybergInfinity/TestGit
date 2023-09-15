@@ -9,7 +9,7 @@ public static void main(String[] args) {
 	System.out.println("test conflict by GitTest");
 	System.out.println("test conflict by TestGit");
 	System.out.println("0826 update by GitTest");
-	System.out.println("0826 update by TestGit");
+	System.out.println("0915 update by GitTest");
 }
 }
  
