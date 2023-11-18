@@ -12,6 +12,7 @@ public static void main(String[] args) {
 	System.out.println("0915 update by TestGit");
 	System.out.println("0915 update by TestGit two");
 	System.out.println("0915 update by GitTest two");
+	System.out.println("2023/11/18 by TestGit");
 	System.out.println("2023/11/18 by GitTest");
 }
 }
